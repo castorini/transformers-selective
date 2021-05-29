@@ -1,0 +1,9 @@
+tqdm
+boto3
+requests
+regex
+sentencepiece
+sacremoses
+tensorboardX
+tensorboard
+seqeval
